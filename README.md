@@ -20,3 +20,6 @@ The back end was developed using express(NodeJS)
 	Contains Joi library with external modules for Date and ObjectId(like in the mongo database)
 # In the models folder:
 	Contains entitys and the communication with the database and querys
+# If problem with starting project:
+	1-Remove node_modules folder and package-lock.json
+	2-Run npm install
