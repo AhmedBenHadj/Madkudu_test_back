@@ -9,7 +9,7 @@ The back end was developed using express(NodeJS)
     "joi": "^14.3.1", ->Used to valid body request and valid inputs and give a schema for objects
     "mongodb": "^3.2.2", -> Using mongodb database
     "mongoose": "^5.4.20", -> ODM
-# FOLDERS CONTAINTS - Architecture used
+# FOLDERS CONTAINS - Architecture used
 # In the Api folder
 	Contains controller and routes of each entity
 # In the constants
@@ -22,11 +22,13 @@ The back end was developed using express(NodeJS)
 	Contains Joi library with external modules for Date and ObjectId(like in the mongo database)
 # In the models folder:
 	Contains entitys and the communication with the database and querys
-# How to use:
+---------------------------
+# HOW TO USE
 	1-Enter the folder with command prompt system
 	2-Run command: npm install
 	3-Run command: npm start
 	#The server will run on the port 3100
+-------------------------------------------
 # If problem when starting project:
 	1-Remove node_modules folder and package-lock.json
 	2-Run npm install
