@@ -25,6 +25,6 @@ The back end was developed using express(NodeJS)
 	2-Run command: npm install
 	3-Run command: npm start
 	#The server will run on the port 3100
-# If problem with starting project:
+# If problem when starting project:
 	1-Remove node_modules folder and package-lock.json
 	2-Run npm install
