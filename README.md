@@ -20,6 +20,11 @@ The back end was developed using express(NodeJS)
 	Contains Joi library with external modules for Date and ObjectId(like in the mongo database)
 # In the models folder:
 	Contains entitys and the communication with the database and querys
+# How to use:
+	1-Enter the folder with command prompt system
+	2-Run command: npm install
+	3-Run command: npm start
+	#The server will run on the port 3100
 # If problem with starting project:
 	1-Remove node_modules folder and package-lock.json
 	2-Run npm install
