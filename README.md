@@ -10,7 +10,7 @@ The back end was developed using express(NodeJS)
     "mongodb": "^3.2.2", -> Using mongodb database
     "mongoose": "^5.4.20", -> ODM
 # I use a complex architecture for my project:
- In the Api folder: Contains controller and routes of each entity
+	In the Api folder: Contains controller and routes of each entity
 	In the constants: field.js -> An array of each field in the antelope document in the databse
 			  horns.js -> An array of each type of antelope horns
 # In the config folder:
