@@ -1,7 +1,8 @@
 # Madkudu_test_back
 This project is my work for madkudu test
-
+---------------------------------------------------
 The back end was developed using express(NodeJS)
+---------------------------------------------------
 # Library used:
     "http": "0.0.0", -> To send request for a third actor
     "http-errors": "~1.6.2", -> To send Http Error response
@@ -9,6 +10,7 @@ The back end was developed using express(NodeJS)
     "joi": "^14.3.1", ->Used to valid body request and valid inputs and give a schema for objects
     "mongodb": "^3.2.2", -> Using mongodb database
     "mongoose": "^5.4.20", -> ODM
+---------------------------------------------------
 # FOLDERS CONTAINS - Architecture used
 # In the Api folder
 	Contains controller and routes of each entity
